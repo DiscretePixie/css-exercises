@@ -1,0 +1,22 @@
+/* style.css */ 
+
+.odd {
+    font-family: "Verdana", sans-derif;
+    background-color: pink; 
+}
+
+.numberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.numberThree {
+    font-size: 24px;
+}
+
+.numberFour {
+    color: black;
+    background-color: rgb(95, 233, 114);
+    font-weight: bold;
+    font-size: 24px;
+}
